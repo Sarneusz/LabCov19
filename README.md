@@ -1,7 +1,8 @@
 # Medical_information_systems
-Medyczne systemy informacyjne - projekt
+ 
+<b>Medyczne systemy informacyjne - projekt
 
-Medical information systems - project
+Medical information systems - project</b>
 
 # LabCov19
 
